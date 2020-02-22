@@ -14,4 +14,4 @@ app.get('/', (req, res) => {
 
 const PORT = process.env.PORT || 4800;
 
-app.listen(4800);
+app.listen(PORT);
