@@ -2,7 +2,7 @@
 
 <font size=4>
 
-Companies wants to know how people feel about their service. 
+Companies wants to know how people feel about their service, which could be helpful for their development.
 
 We provide this web app, let companies could send questionnaires via emails (designed by themselves, but we also provide templates if they like) to all their cutomers. 
 
