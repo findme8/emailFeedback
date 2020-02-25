@@ -1,6 +1,6 @@
 # Project Introduction
 
-<font size="18px">
+<font size=4>
 
 Companies wants to know how people feel about their service. 
 
