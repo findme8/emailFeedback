@@ -15,14 +15,14 @@ Then our server collect the feedback and provide related statitics data to these
 
 # Tech Stack
 
-User signs up via Google OAuth: Express server + MongoDB + PassportJS
+- User signs up via Google OAuth: Express server + MongoDB + PassportJS
 
-User pays for email credits via stripe: Stripe + MongoDB
+- User pays for email credits via stripe: Stripe + MongoDB
 
-User creates a new survey: React + Redux
+- User creates a new survey: React + Redux
 
-User enters list of emails to send survey: React + Redux + Redux Form
+- User enters list of emails to send survey: React + Redux + Redux Form
 
-Surveyees click on link in email to provide feedback: Express + Mongo
+- Surveyees click on link in email to provide feedback: Express + Mongo
 
-User see report of all survey responses: Mongo + React + Redux
+- User see report of all survey responses: Mongo + React + Redux
