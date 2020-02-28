@@ -1,5 +1,3 @@
-[This project is ongoing]
-
 # Project Introduction
 
 <font size=4>
